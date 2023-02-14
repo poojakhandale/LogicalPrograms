@@ -5,6 +5,7 @@ class  Program
 {
     public  static void Main(string  [ ] agrs)
     {
-        Console.WriteLine("Welcome To The logical Programs");
+        // Console.WriteLine("Welcome To The logical Programs");
+        reversenumbuer.Reverse();
     }
 }
