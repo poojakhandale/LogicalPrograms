@@ -6,6 +6,7 @@ class  Program
     public  static void Main(string  [ ] agrs)
     {
         // Console.WriteLine("Welcome To The logical Programs");
-        reversenumbuer.Reverse();
+        //reversenumbuer.Reverse();
+        PrimeNumber.PrimeNumbers();
     }
 }
